@@ -1,0 +1,3 @@
+Django Application
+Yotube Transcriber Integration
+Frontend
